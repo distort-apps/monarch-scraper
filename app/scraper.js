@@ -18,7 +18,7 @@ const formatDateStringForMongoDB = (dateString) => {
 
 const processExcerpt = (html, link) => {
   if (!html) {
-    return ''
+    return '';
   }
 
   const $ = cheerio.load(html);
@@ -39,10 +39,42 @@ const processExcerpt = (html, link) => {
   });
 
   if (link) {
-    formattedExcerpt += `<br><br><ul><li><a href='${link}'>BUY TICKETS</a></li></ul>`
+    formattedExcerpt += `<br><br><ul><li><a href='${link}'>BUY TICKETS</a></li></ul>`;
   }
 
   return formattedExcerpt;
+};
+
+const genreKeywords = {
+  'black metal': ['black metal'],
+  metal: ['metal'],
+  'nu metal': ['nu metal'],
+  punk: ['punk'],
+  'post punk': ['post punk', 'post-punk', 'post - punk'],
+  'stoner rock': ['stoner rock'],
+  'post rock': ['post rock', 'post-rock', 'post - rock'],
+  rock: ['rock'],
+  edm: ['edm'],
+  synth: ['synth'],
+  industrial: ['industrial'],
+  pop: ['pop'],
+  'hip-hop': ['hip-hop', 'hip hop'],
+  oi: ['oi'],
+  emo: ['emo'],
+  'pop up': ['pop up'],
+  deathcore: ['deathcore'],
+  thrash: ['thrash'],
+  other: ['other'] // fallback category
+};
+
+const findGenre = (text) => {
+  text = text.toLowerCase();
+  for (const [genre, keywords] of Object.entries(genreKeywords)) {
+    if (keywords.some(keyword => text.includes(keyword))) {
+      return genre;
+    }
+  }
+  return '¯\\_(ツ)_/¯';
 };
 
 (async () => {
@@ -144,7 +176,7 @@ const processExcerpt = (html, link) => {
 
       const { formattedDate, time } = formatDateTime(dateTime);
 
-      eventDetails.push({ title, date: formattedDate, genre: "gig", time: time || "", location, price, image, buyNowLink });
+      eventDetails.push({ title, date: formattedDate, genre: 'gig', time: time || '', location, price, image, buyNowLink });
     });
 
     return eventDetails;
@@ -165,6 +197,7 @@ const processExcerpt = (html, link) => {
         });
 
         event.excerpt = processExcerpt(aboutSectionHtml, event.buyNowLink);
+        event.genre = findGenre(event.excerpt || ''); // Determine genre based on the excerpt
       } catch (error) {
         console.error(`Failed to extract about section for event: ${event.title}`, error);
       } finally {

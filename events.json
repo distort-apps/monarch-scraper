@@ -1,41 +1,8 @@
 [
   {
-    "title": "Archers, Hollow Front, If Not For Me",
-    "date": "2024-06-27T00:00:00.000+00:00",
-    "genre": "gig",
-    "time": "6:00pm",
-    "location": "The Kingsland",
-    "price": "$30.90",
-    "image": "https://dice-media.imgix.net/attachments/2024-04-23/2cf7a48d-d2a3-4b88-a9a0-6073241c953f.jpg?rect=0%2C0%2C3000%2C3000&w=500&h=500",
-    "buyNowLink": "https://link.dice.fm/q1b3160f79ab?pid=679d6ca0",
-    "excerpt": "<p>The Kingsland Presents</p><p>Archers</p><p>Hollow Front</p><p>If Not For Me</p><p>The Phoenix Within</p><br><br><ul><li><a href='https://link.dice.fm/q1b3160f79ab?pid=679d6ca0'>BUY TICKETS</a></li></ul>"
-  },
-  {
-    "title": "Alesana, Limbs, Vampires Everywhere",
-    "date": "2024-06-27T00:00:00.000+00:00",
-    "genre": "gig",
-    "time": "6:00pm",
-    "location": "The Brooklyn Monarch",
-    "price": "$30.90",
-    "image": "https://dice-media.imgix.net/attachments/2024-04-03/f4a76eb3-4d0c-4a94-a4e3-459ff2e27a6a.jpg?rect=1000%2C0%2C4000%2C4000&w=500&h=500",
-    "buyNowLink": "https://link.dice.fm/G3994bfc4927?pid=679d6ca0",
-    "excerpt": "<p>The Kingsland Presents</p><p>Alesana</p><p>Limbs</p><p>Vampires Everywhere</p><p>All The Pretty Things</p><p>Half Heard Voices</p><br><br><ul><li><a href='https://link.dice.fm/G3994bfc4927?pid=679d6ca0'>BUY TICKETS</a></li></ul>"
-  },
-  {
-    "title": "Foxtails, Satón, Solace, Good for Willow",
-    "date": "2024-06-27T00:00:00.000+00:00",
-    "genre": "gig",
-    "time": "7:00pm",
-    "location": "The Meadows",
-    "price": "$19.57",
-    "image": "https://dice-media.imgix.net/attachments/2024-05-08/a6163889-29f1-48c4-bf11-7bd24c104895.jpg?rect=0%2C375%2C2550%2C2550&w=500&h=500",
-    "buyNowLink": "https://link.dice.fm/j1e4865f63ac?pid=679d6ca0",
-    "excerpt": "<p>Collective Effort NYC Presents</p><p>Foxtails</p><p>Satón</p><p>Solace</p><p>Good for Willow</p><br><br><ul><li><a href='https://link.dice.fm/j1e4865f63ac?pid=679d6ca0'>BUY TICKETS</a></li></ul>"
-  },
-  {
     "title": "Warthog, Personal Damage, Necron 9, Delco mfs",
     "date": "2024-06-28T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:00pm",
     "location": "The Meadows",
     "price": "$27.30",
@@ -46,18 +13,18 @@
   {
     "title": "Baazlvaat, Funeral Dancer, The Virgos, Satanism, Satanic Magick",
     "date": "2024-06-28T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "black metal",
     "time": "6:30pm",
     "location": "The Kingsland",
     "price": "$26.22",
-    "image": "https://dice-media.imgix.net/attachments/2024-06-05/12126e9b-7de2-41b0-9441-7f093e852385.jpg?rect=0%2C135%2C1080%2C1080&w=500&h=500",
+    "image": "https://dice-media.imgix.net/attachments/2024-06-28/4673ecba-6fdf-4caa-8f6e-64480962a89c.jpg?rect=0%2C0%2C1080%2C1080&w=500&h=500",
     "buyNowLink": "https://link.dice.fm/n866742e9c68?pid=679d6ca0",
     "excerpt": "<p>BLACK METAL + SPEED THRASH BANGER FROM NYC FAVES, PENNSYLVANIA'S HEAVIEST + FLINT, MICHIGAN'S BEST: BAAZLVAAT</p><br><br><ul><li><a href='https://link.dice.fm/n866742e9c68?pid=679d6ca0'>BUY TICKETS</a></li></ul>"
   },
   {
     "title": "Aweminus, Syzy",
     "date": "2024-06-28T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "11:00pm",
     "location": "The Meadows",
     "price": "$25.24",
@@ -68,7 +35,7 @@
   {
     "title": "Dead to Fall, Evergreen Terrace, Thy Will Be Done",
     "date": "2024-06-29T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "5:00pm",
     "location": "The Brooklyn Monarch",
     "price": "$36.57",
@@ -79,7 +46,7 @@
   {
     "title": "Sham 69, No Consent, TBD",
     "date": "2024-06-29T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "oi",
     "time": "6:30pm",
     "location": "The Meadows",
     "price": "$32.78",
@@ -90,7 +57,7 @@
   {
     "title": "Big Top",
     "date": "2024-06-29T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "11:00pm",
     "location": "The Meadows",
     "price": "$36.57",
@@ -101,7 +68,7 @@
   {
     "title": "Sorbae",
     "date": "2024-06-29T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "11:00pm",
     "location": "The Brooklyn Monarch",
     "price": "$59.23",
@@ -112,7 +79,7 @@
   {
     "title": "ACTION! Afterhours Pride in New York",
     "date": "2024-06-30T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "5:00am",
     "location": "The Meadows",
     "price": "$69",
@@ -123,7 +90,7 @@
   {
     "title": "Grand Vibrations",
     "date": "2024-06-30T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "4:00pm",
     "location": "The Brooklyn Monarch",
     "price": "Free",
@@ -134,7 +101,7 @@
   {
     "title": "FUNCTION XX - PRIDE ANNIVERSARY",
     "date": "2024-06-30T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "oi",
     "time": "6:00pm",
     "location": "The Meadows",
     "price": "$62.68",
@@ -145,7 +112,7 @@
   {
     "title": "Messer Chups, Wiped Out, Coffin Daggers, Dracu-Las",
     "date": "2024-06-30T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "punk",
     "time": "6:00pm",
     "location": "The Kingsland",
     "price": "$25.24",
@@ -156,7 +123,7 @@
   {
     "title": "Puppeteers For Fears presents: Cthulhu the Musical",
     "date": "2024-07-01T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "rock",
     "time": "7:00pm",
     "location": "The Brooklyn Monarch",
     "price": "$25.24",
@@ -167,7 +134,7 @@
   {
     "title": "Blame God, Endless Swarm, Stress Ghetto",
     "date": "2024-07-02T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:00pm",
     "location": "The Woodshop",
     "price": "$19.67",
@@ -178,7 +145,7 @@
   {
     "title": "Lacey Sturm",
     "date": "2024-07-02T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "rock",
     "time": "6:30pm",
     "location": "The Brooklyn Monarch",
     "price": "$25.24",
@@ -189,7 +156,7 @@
   {
     "title": "Flatfoot 56, Criminal Kids, 45 Adapters, Maafa",
     "date": "2024-07-03T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:00pm",
     "location": "The Meadows",
     "price": "$19.57",
@@ -200,7 +167,7 @@
   {
     "title": "RM47, Marc Rich, Jus, Narki, Young Saba, MOLA, Lord The Icon, Kae G at Woodshop (Early Show)",
     "date": "2024-07-03T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "7:00pm",
     "location": "The Woodshop",
     "price": "Free",
@@ -211,10 +178,10 @@
   {
     "title": "Wingz in The Trap",
     "date": "2024-07-03T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "7:00pm",
     "location": "The Brooklyn Monarch",
-    "price": "$19.57",
+    "price": "$30.90",
     "image": "https://dice-media.imgix.net/attachments/2024-06-13/ed4447a2-363f-4ec7-ad17-a401d0178658.jpg?rect=0%2C0%2C3375%2C3375&w=500&h=500",
     "buyNowLink": "https://link.dice.fm/q635dfdd2c01?pid=679d6ca0",
     "excerpt": "<p>\"On July 3rd, we pledge allegiance to the trap—wings, that is! 🖤🍗</p><p>After the success of our 4/20 event, we’re back to take over Fourth of July Eve in an even bigger way.</p><p>Expect double the wings, double the drinks, and double the party experience! Enjoy...</p><br><br><ul><li><a href='https://link.dice.fm/q635dfdd2c01?pid=679d6ca0'>BUY TICKETS</a></li></ul>"
@@ -222,7 +189,7 @@
   {
     "title": "Xai Hefner, Jigg Staxks, Loko Disparo$, LinaBwoi, Jay Relentless, TK Ant at Woodshop (Late Show)",
     "date": "2024-07-03T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "oi",
     "time": "9:00pm",
     "location": "The Woodshop",
     "price": "$25.24",
@@ -233,7 +200,7 @@
   {
     "title": "Lady Faith",
     "date": "2024-07-04T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "8:00pm",
     "location": "The Meadows",
     "price": "$36.57",
@@ -244,7 +211,7 @@
   {
     "title": "Come As You Are: 90s Alternative Nite",
     "date": "2024-07-05T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "pop",
     "time": "10:00pm",
     "location": "The Brooklyn Monarch",
     "price": "$11.33",
@@ -255,7 +222,7 @@
   {
     "title": "The Black Parade: Emo & Pop Punk Party",
     "date": "2024-07-05T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "punk",
     "time": "10:00pm",
     "location": "The Brooklyn Monarch",
     "price": "$11.33",
@@ -266,7 +233,7 @@
   {
     "title": "Make America Scene Again",
     "date": "2024-07-05T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "oi",
     "time": "11:00pm",
     "location": "The Meadows",
     "price": "$19.57",
@@ -277,7 +244,7 @@
   {
     "title": "Festergore, Graveywhore, Malefic, Coritsol, Gunk",
     "date": "2024-07-06T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "1:30pm",
     "location": "The Kingsland",
     "price": "$13.91",
@@ -288,7 +255,7 @@
   {
     "title": "Fourth World Year 10",
     "date": "2024-07-06T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "3:00pm",
     "location": "The Brooklyn Monarch",
     "price": "$59.23",
@@ -299,7 +266,7 @@
   {
     "title": "Artemis, Cortrell, Solo Drew, Moneymade Eli, Fredo.B, Diamond Flowers, Ally Ramos at Kingsland (Early Show)",
     "date": "2024-07-10T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "7:00pm",
     "location": "The Kingsland",
     "price": "$25.24",
@@ -310,7 +277,7 @@
   {
     "title": "Yung H, Cheesus MacGod, Rashid Isaiah, B Kash, Papijay Fresh, Foreign Axel, Lucky Bandido, King SvPreme at Kingsland (Late Show)",
     "date": "2024-07-10T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "9:00pm",
     "location": "The Kingsland",
     "price": "$25.24",
@@ -321,7 +288,7 @@
   {
     "title": "The Summer Slaughter Tour",
     "date": "2024-07-12T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "2:30pm",
     "location": "The Brooklyn Monarch",
     "price": "$47.90",
@@ -332,7 +299,7 @@
   {
     "title": "Ferocious X, Dollhouse, 80HD, Haram, Cruciform",
     "date": "2024-07-12T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:00pm",
     "location": "The Meadows",
     "price": "$30.90",
@@ -343,7 +310,7 @@
   {
     "title": "Hillbilly Casino, Sasquatch and the Sick-a-Billys",
     "date": "2024-07-12T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "pop",
     "time": "7:00pm",
     "location": "The Kingsland",
     "price": "$25.24",
@@ -354,18 +321,18 @@
   {
     "title": "Reggaeton Tributes",
     "date": "2024-07-12T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "10:00pm",
     "location": "The Meadows",
-    "price": "$11.33",
-    "image": "https://dice-media.imgix.net/attachments/2024-06-24/19c5e395-f923-47d2-87c0-ea3141790cd0.jpg?rect=0%2C0%2C1800%2C1800&w=500&h=500",
+    "price": "$17",
+    "image": "https://dice-media.imgix.net/attachments/2024-06-28/9a5b3447-702e-48b9-9758-c1c68bb5ea96.jpg?rect=0%2C0%2C1800%2C1800&w=500&h=500",
     "buyNowLink": "https://link.dice.fm/ce50abef4805?pid=679d6ca0",
     "excerpt": "<p>A tribute to Benito's music.<br>\nEnjoy all the hits from X 100PRE to Nadie Sabe Lo Que Va A Pasar Mañana.</p><p>Reggaeton Tributes ( @reggaetontribute )</p><p>11:00 PM - 4:00AM</p><p>Tier 1 - $10</p><p>Tier 2- $25</p><p>Tier 3- $40</p><p>Doors- $60</p><p>NO REFUNDS</p><p>All tickets are non-refund...</p><br><br><ul><li><a href='https://link.dice.fm/ce50abef4805?pid=679d6ca0'>BUY TICKETS</a></li></ul>"
   },
   {
     "title": "Sorry Mom",
     "date": "2024-07-13T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:00pm",
     "location": "The Meadows",
     "price": "$22.97",
@@ -376,7 +343,7 @@
   {
     "title": "Thouxanbanfauni and Diego Money w/ Wifisfuneral",
     "date": "2024-07-13T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:00pm",
     "location": "The Kingsland",
     "price": "$36.57",
@@ -387,7 +354,7 @@
   {
     "title": "Wailin Storms, The Triceratops, Thunderon",
     "date": "2024-07-13T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "punk",
     "time": "6:30pm",
     "location": "The Woodshop",
     "price": "$19.57",
@@ -398,7 +365,7 @@
   {
     "title": "Craze, Teebee, Dlr, Taxman",
     "date": "2024-07-13T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "11:00pm",
     "location": "The Meadows",
     "price": "$25.24",
@@ -409,7 +376,7 @@
   {
     "title": "Olinguito, Mantle, King Bastard, Envoys",
     "date": "2024-07-14T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:00pm",
     "location": "The Woodshop",
     "price": "$19.57",
@@ -420,7 +387,7 @@
   {
     "title": "Lowheaven, Jawdust",
     "date": "2024-07-14T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:00pm",
     "location": "The Kingsland",
     "price": "$11.64",
@@ -431,7 +398,7 @@
   {
     "title": "Surfer Joe, Wiped Out",
     "date": "2024-07-15T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "7:00pm",
     "location": "The Meadows",
     "price": "$25.24",
@@ -440,9 +407,20 @@
     "excerpt": "<p>The Kingsland Presents</p><p>Surfer Joe</p><p>Wiped Out</p><br><br><ul><li><a href='https://link.dice.fm/wb3652c794d0?pid=679d6ca0'>BUY TICKETS</a></li></ul>"
   },
   {
+    "title": "Be.Be, Francisco Gallo, dom ultra, KiDD RicH, JOHN DAVY, WILAI @ The Woodshop",
+    "date": "2024-07-16T00:00:00.000+00:00",
+    "genre": "other",
+    "time": "7:00pm",
+    "location": "The Woodshop",
+    "price": "$25.24",
+    "image": "https://dice-media.imgix.net/attachments/2024-06-28/4adbc311-fc9c-456e-8b21-23ca107bc90b.jpg?rect=0%2C359%2C1440%2C1440&w=500&h=500",
+    "buyNowLink": "https://link.dice.fm/ua63565a21f1?pid=679d6ca0",
+    "excerpt": "<p>MajorStage Presents: Francisco Gallo, dom ultra, KiDD RicH, JOHN DAVY, WILAI @ The Woodshop (Early Show)</p><p>Featuring: Francisco Gallo, dom ultra, KiDD RicH, JOHN DAVY, WILAI</p><br><br><ul><li><a href='https://link.dice.fm/ua63565a21f1?pid=679d6ca0'>BUY TICKETS</a></li></ul>"
+  },
+  {
     "title": "EMO CONCERT",
     "date": "2024-07-16T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "emo",
     "time": "7:00pm",
     "location": "The Meadows",
     "price": "$25",
@@ -453,7 +431,7 @@
   {
     "title": "The Atomic Bitchwax, Mirror Queen",
     "date": "2024-07-16T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "7:00pm",
     "location": "The Kingsland",
     "price": "$20.71",
@@ -462,20 +440,31 @@
     "excerpt": "<p>Formed in the mid 90s by bassist/singer Chris Kosnik, guitarist Ed Mundell, and drummer Keith Ackerman, their first self-titled album “The Atomic Bitchwax” was released in 1999 with the N.Y.C. label Tee Pee Records establishing them with audiences of the b...</p><br><br><ul><li><a href='https://link.dice.fm/u48b4dfc82e9?pid=679d6ca0'>BUY TICKETS</a></li></ul>"
   },
   {
-    "title": "Ayanna Sheree, LeeFlex, Krys X, Kamali + More @ The Meadows (Early Show)",
+    "title": "Lunaa Maria, Jun Blazin, Rubyy.Red, Ty Balla + More @ The Woodshop (Late Show)",
+    "date": "2024-07-16T00:00:00.000+00:00",
+    "genre": "other",
+    "time": "9:00pm",
+    "location": "The Woodshop",
+    "price": "$25.24",
+    "image": "https://dice-media.imgix.net/attachments/2024-06-28/72dd7980-c2e1-4899-8cf6-9b34859e7b20.jpg?rect=0%2C0%2C1080%2C1080&w=500&h=500",
+    "buyNowLink": "https://link.dice.fm/L3c4cd7b86ee?pid=679d6ca0",
+    "excerpt": "<p>MajorStage Presents: Lunaa Maria, Jun Blazin, Rubyy.Red, Ty Balla, Aceupnext @ The Woodshop (Late Show)</p><p>Featuring: Lunaa Maria, Jun Blazin, Rubyy.Red, Ty Balla, Aceupnext</p><br><br><ul><li><a href='https://link.dice.fm/L3c4cd7b86ee?pid=679d6ca0'>BUY TICKETS</a></li></ul>"
+  },
+  {
+    "title": "Ayanna Sheree, LeeFlex, Krys X, Kamali, Mike Dave + More @ The Meadows (Early Show)",
     "date": "2024-07-17T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "7:00pm",
     "location": "The Meadows",
     "price": "$25.24",
     "image": "https://dice-media.imgix.net/attachments/2024-06-25/f51d74b3-0285-440f-a3b8-644b82d3c419.jpg?rect=0%2C268%2C1080%2C1080&w=500&h=500",
     "buyNowLink": "https://link.dice.fm/J342a143945e?pid=679d6ca0",
-    "excerpt": "<p>MajorStage Presents: Ayanna Sheree, LeeFlex, Krys X, Kamali + More @ The Meadows (Early Show)</p><p>Featuring: Ayanna Sheree, LeeFlex, Krys X, Kamali + More</p><br><br><ul><li><a href='https://link.dice.fm/J342a143945e?pid=679d6ca0'>BUY TICKETS</a></li></ul>"
+    "excerpt": "<p>MajorStage Presents: Ayanna Sheree, LeeFlex, Krys X, Kamali, Mike Dave + More @ The Meadows (Early Show)</p><p>Featuring: Ayanna Sheree, LeeFlex, Krys X, Kamali, Mike Dave + More</p><br><br><ul><li><a href='https://link.dice.fm/J342a143945e?pid=679d6ca0'>BUY TICKETS</a></li></ul>"
   },
   {
     "title": "Ken Rebel, Hotelroom, Josh Forehead, DUSTYSTAYTRUE, DAV, Prada Wavez + More @ The Meadows (Late Show)",
     "date": "2024-07-17T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "9:00pm",
     "location": "The Meadows",
     "price": "$25.24",
@@ -486,7 +475,7 @@
   {
     "title": "Heavy Temple w/ Valley of the Sun and 25th Mission",
     "date": "2024-07-18T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:00pm",
     "location": "The Kingsland",
     "price": "$25.24",
@@ -497,7 +486,7 @@
   {
     "title": "Have Heart, Speed, Magnitude, Restraining Order",
     "date": "2024-07-19T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "5:30pm",
     "location": "The Brooklyn Monarch",
     "price": "$55.62",
@@ -508,7 +497,7 @@
   {
     "title": "The Ergs! 20th Anniversary of DorkRockCorkRod",
     "date": "2024-07-19T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "punk",
     "time": "6:00pm",
     "location": "The Meadows",
     "price": "$25.24",
@@ -519,7 +508,7 @@
   {
     "title": "AZ Presents Connecticut Live and Riddim NYC Present: Sanzu",
     "date": "2024-07-19T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "11:00pm",
     "location": "The Meadows",
     "price": "$27.30",
@@ -530,7 +519,7 @@
   {
     "title": "The Dollyrots, The Boreouts, Palmyra Delran",
     "date": "2024-07-20T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:00pm",
     "location": "The Kingsland",
     "price": "$25.24",
@@ -541,7 +530,7 @@
   {
     "title": "Scary Kids Scaring Kids",
     "date": "2024-07-20T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:30pm",
     "location": "The Meadows",
     "price": "$27.30",
@@ -552,7 +541,7 @@
   {
     "title": "Chimba Nights | Reggaeton Dance Party (18+)",
     "date": "2024-07-20T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "11:00pm",
     "location": "The Meadows",
     "price": "$28.33",
@@ -563,7 +552,7 @@
   {
     "title": "Vanishing Kids, Insomiac",
     "date": "2024-07-22T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:30pm",
     "location": "The Kingsland",
     "price": "$19.57",
@@ -574,7 +563,7 @@
   {
     "title": "Sleepmakeswaves, Toehider, Cavallo",
     "date": "2024-07-23T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "7:00pm",
     "location": "The Meadows",
     "price": "$25.24",
@@ -585,7 +574,7 @@
   {
     "title": "Boxrooster, Mother Cabrini, The Kindergarten",
     "date": "2024-07-24T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "7:00pm",
     "location": "The Kingsland",
     "price": "$11.64",
@@ -596,7 +585,7 @@
   {
     "title": "Breed",
     "date": "2024-07-25T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "7:00pm",
     "location": "The Kingsland",
     "price": "$16.18",
@@ -607,7 +596,7 @@
   {
     "title": "Sloppy Seconds, The Queers, The Raging Nathans",
     "date": "2024-07-25T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "7:00pm",
     "location": "The Brooklyn Monarch",
     "price": "$30.90",
@@ -618,7 +607,7 @@
   {
     "title": "The Metal Menagerie at The Meadows",
     "date": "2024-07-26T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "metal",
     "time": "6:30pm",
     "location": "The Meadows",
     "price": "$30.90",
@@ -629,7 +618,7 @@
   {
     "title": "Misfits Melodies: Black Beach Brides",
     "date": "2024-07-26T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "11:00pm",
     "location": "The Kingsland",
     "price": "$19.57",
@@ -640,7 +629,7 @@
   {
     "title": "Tracheotomy, Surfaced, Girl of Glass",
     "date": "2024-07-27T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "5:30pm",
     "location": "The Kingsland",
     "price": "$20.71",
@@ -651,7 +640,7 @@
   {
     "title": "Tomb Mold, Horrendous",
     "date": "2024-07-27T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:30pm",
     "location": "The Brooklyn Monarch",
     "price": "$26.22",
@@ -662,7 +651,7 @@
   {
     "title": "Cartoon Carnival",
     "date": "2024-07-27T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "9:00pm",
     "location": "The Meadows",
     "price": "$25.24",
@@ -673,7 +662,7 @@
   {
     "title": "Cryptodira",
     "date": "2024-07-31T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:30pm",
     "location": "The Kingsland",
     "price": "$19.57",
@@ -684,7 +673,7 @@
   {
     "title": "Exciter, Midnight, Wraith, Hellwitch",
     "date": "2024-08-01T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:30pm",
     "location": "The Meadows",
     "price": "$32.78",
@@ -695,7 +684,7 @@
   {
     "title": "Pogo Fest Nyc 2024",
     "date": "2024-08-02T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "7:00pm",
     "location": "The Kingsland",
     "price": "$11.64",
@@ -706,7 +695,7 @@
   {
     "title": "BAD APPLE RECORDS: GG MAGREE & more",
     "date": "2024-08-02T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "rock",
     "time": "10:00pm",
     "location": "The Meadows",
     "price": "$13.91",
@@ -717,7 +706,7 @@
   {
     "title": "Summer SlamBoree II",
     "date": "2024-08-03T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "oi",
     "time": "5:00pm",
     "location": "The Kingsland",
     "price": "$19.57",
@@ -728,7 +717,7 @@
   {
     "title": "BeatWave (Mini Music Fest) ft. Blastoyz",
     "date": "2024-08-03T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "oi",
     "time": "11:00pm",
     "location": "The Brooklyn Monarch",
     "price": "$29.99",
@@ -739,7 +728,7 @@
   {
     "title": "King 810, The Last Ten Seconds of Life, more",
     "date": "2024-08-08T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:00pm",
     "location": "The Meadows",
     "price": "$25.24",
@@ -750,7 +739,7 @@
   {
     "title": "Soul Search, Dmize, Combust, Trail of Lies",
     "date": "2024-08-09T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:00pm",
     "location": "The Meadows",
     "price": "$30.90",
@@ -761,7 +750,7 @@
   {
     "title": "Uniity, Zoume, Metropole, Lake Lanier, Foul Pride @ The Kingsland",
     "date": "2024-08-09T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:30pm",
     "location": "The Kingsland",
     "price": "$19.57",
@@ -772,8 +761,8 @@
   {
     "title": "NY Deathfest 8",
     "date": "2024-08-10T00:00:00.000+00:00",
-    "genre": "gig",
-    "time": "?",
+    "genre": "other",
+    "time": "",
     "location": "The Meadows",
     "price": "$69.53",
     "image": "https://dice-media.imgix.net/attachments/2024-06-05/5904e6bb-3d05-443e-86bd-73feb6432a6a.jpg?rect=0%2C0%2C903%2C903&w=500&h=500",
@@ -783,7 +772,7 @@
   {
     "title": "Haunt, Savage Master + More!",
     "date": "2024-08-11T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "metal",
     "time": "6:30pm",
     "location": "The Kingsland",
     "price": "$19.57",
@@ -794,7 +783,7 @@
   {
     "title": "Hong Kong Fuck You",
     "date": "2024-08-12T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:00pm",
     "location": "The Meadows",
     "price": "$25.24",
@@ -805,7 +794,7 @@
   {
     "title": "Silvertung w/ NeverWake",
     "date": "2024-08-14T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:30pm",
     "location": "The Kingsland",
     "price": "$19.57",
@@ -816,7 +805,7 @@
   {
     "title": "The Color Fred, Sleep Cycles",
     "date": "2024-08-15T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "7:00pm",
     "location": "The Kingsland",
     "price": "$16.18",
@@ -827,7 +816,7 @@
   {
     "title": "Samplifire",
     "date": "2024-08-16T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "10:00pm",
     "location": "The Meadows",
     "price": "$30.90",
@@ -838,7 +827,7 @@
   {
     "title": "Summer Scream Festival",
     "date": "2024-08-17T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "2:00pm",
     "location": "The Meadows",
     "price": "$30.90",
@@ -849,7 +838,7 @@
   {
     "title": "Dismember, Vomitory, Undergang, Morpheus Descends",
     "date": "2024-08-17T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "3:30pm",
     "location": "The Brooklyn Monarch",
     "price": "$69.53",
@@ -860,7 +849,7 @@
   {
     "title": "Redman",
     "date": "2024-08-18T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "edm",
     "time": "5:00pm",
     "location": "The Brooklyn Monarch",
     "price": "$47.90",
@@ -871,7 +860,7 @@
   {
     "title": "Clique, Dog Breath, Last Man Out, Big Shot",
     "date": "2024-08-18T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:00pm",
     "location": "The Kingsland",
     "price": "$19.57",
@@ -880,9 +869,20 @@
     "excerpt": "<p>The Kingsland &amp; Miles to Go Presents</p><p>Clique</p><p>Dog Breath</p><p>Last Man Out</p><p>Big Shot</p><p>Last Laugh</p><p>Raid</p><br><br><ul><li><a href='https://link.dice.fm/hd214e3e591f?pid=679d6ca0'>BUY TICKETS</a></li></ul>"
   },
   {
+    "title": "Smif-N-Wessun: Still Shinin Tour",
+    "date": "2024-08-22T00:00:00.000+00:00",
+    "genre": "other",
+    "time": "6:30pm",
+    "location": "The Brooklyn Monarch",
+    "price": "$30.90",
+    "image": "https://dice-media.imgix.net/attachments/2024-06-28/95597937-9e12-46ce-ad05-6b7aa7ff531d.jpg?rect=0%2C1222%2C3834%2C3834&w=500&h=500",
+    "buyNowLink": "https://link.dice.fm/C5c8a6964331?pid=679d6ca0",
+    "excerpt": "<p>Representing Brownsville &amp; Bed Stuy Brooklyn, rap duo Smif-N-Wessun, Tek and Steele, first appeared on Black Moon’s debut album Enta Da Stage in 1993. Adding relentless rhymes to tracks \"U da Man\" and \"Black Smif N' Wessun,\" the pair paved the way for the...</p><br><br><ul><li><a href='https://link.dice.fm/C5c8a6964331?pid=679d6ca0'>BUY TICKETS</a></li></ul>"
+  },
+  {
     "title": "Oxygen Destroyer, Sadistic Force, Sentient Horror",
     "date": "2024-08-22T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "metal",
     "time": "6:30pm",
     "location": "The Kingsland",
     "price": "$20.71",
@@ -893,7 +893,7 @@
   {
     "title": "Aviations, Sawce, Marcelo, Belle Shea @ The Kingsland",
     "date": "2024-08-23T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:00pm",
     "location": "The Kingsland",
     "price": "$19.57",
@@ -904,7 +904,7 @@
   {
     "title": "Restless Fest NY w/ Nettspend, Osamason + more",
     "date": "2024-08-24T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "4:00pm",
     "location": "The Brooklyn Monarch",
     "price": "$59.23",
@@ -915,7 +915,7 @@
   {
     "title": "YETEP",
     "date": "2024-08-24T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "10:00pm",
     "location": "The Meadows",
     "price": "$29.26",
@@ -926,7 +926,7 @@
   {
     "title": "Snodgrass, DL Burdon, Will Romeo, Lou DeFabrizo",
     "date": "2024-08-25T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:30pm",
     "location": "The Kingsland",
     "price": "$13.91",
@@ -937,7 +937,7 @@
   {
     "title": "Alyssa Edwards: Glitz and Giggles",
     "date": "2024-08-25T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "oi",
     "time": "7:30pm",
     "location": "The Brooklyn Monarch",
     "price": "$53.56",
@@ -948,7 +948,7 @@
   {
     "title": "Signs of the Swarm, Cane Hill, Ov Sulfur + More",
     "date": "2024-08-30T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "5:00pm",
     "location": "The Meadows",
     "price": "$28.07",
@@ -959,7 +959,7 @@
   {
     "title": "Rage of Armageddon 7 Fest",
     "date": "2024-08-31T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "2:00pm",
     "location": "The Brooklyn Monarch",
     "price": "$59.23",
@@ -970,7 +970,7 @@
   {
     "title": "Simulakra",
     "date": "2024-08-31T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:00pm",
     "location": "The Kingsland",
     "price": "$19.57",
@@ -981,7 +981,7 @@
   {
     "title": "Zombie Composer's Cut By Fabio Frizzi w/ Screening",
     "date": "2024-09-05T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "7:00pm",
     "location": "The Brooklyn Monarch",
     "price": "$36.57",
@@ -992,7 +992,7 @@
   {
     "title": "The Fall of Troy- Phantom on the Horizon tour",
     "date": "2024-09-06T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:00pm",
     "location": "The Brooklyn Monarch",
     "price": "$36.57",
@@ -1003,7 +1003,7 @@
   {
     "title": "Dirty Rotten Imbeciles",
     "date": "2024-09-07T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "metal",
     "time": "7:00pm",
     "location": "The Kingsland",
     "price": "$30.90",
@@ -1014,7 +1014,7 @@
   {
     "title": "Oceano, To The Grave, Vctms, Half Me",
     "date": "2024-09-08T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "oi",
     "time": "6:00pm",
     "location": "The Meadows",
     "price": "$30.90",
@@ -1025,7 +1025,7 @@
   {
     "title": "Exploited",
     "date": "2024-09-17T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "oi",
     "time": "7:00pm",
     "location": "The Brooklyn Monarch",
     "price": "$45.07",
@@ -1036,7 +1036,7 @@
   {
     "title": "Sinister w/ Tombstoner",
     "date": "2024-09-19T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "7:30pm",
     "location": "The Brooklyn Monarch",
     "price": "$25.24",
@@ -1047,7 +1047,7 @@
   {
     "title": "Nails, 200 Stab Wounds, Mammoth Grinder",
     "date": "2024-09-20T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "5:30pm",
     "location": "The Brooklyn Monarch",
     "price": "$30.90",
@@ -1058,8 +1058,8 @@
   {
     "title": "Metal Injection Fest 2024",
     "date": "2024-09-21T00:00:00.000+00:00",
-    "genre": "gig",
-    "time": "?",
+    "genre": "metal",
+    "time": "",
     "location": "The Brooklyn Monarch",
     "price": "$109.70",
     "image": "https://dice-media.imgix.net/attachments/2024-05-15/2517db4f-f23a-41e5-b33e-50a85b0e1277.jpg?rect=0%2C313%2C2500%2C2500&w=500&h=500",
@@ -1069,7 +1069,7 @@
   {
     "title": "The Phoenix & The Raven @ The Kingsland",
     "date": "2024-09-21T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "7:00pm",
     "location": "The Kingsland",
     "price": "$19.57",
@@ -1080,7 +1080,7 @@
   {
     "title": "Brad Stank, Ricewine",
     "date": "2024-09-24T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:00pm",
     "location": "The Brooklyn Monarch",
     "price": "$30.90",
@@ -1091,7 +1091,7 @@
   {
     "title": "A Home Away From Home Brooklyn",
     "date": "2024-09-27T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "3:00pm",
     "location": "The Brooklyn Monarch",
     "price": "$58.66",
@@ -1102,7 +1102,7 @@
   {
     "title": "Calling All Captains, Goalkeeper",
     "date": "2024-10-03T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:00pm",
     "location": "The Kingsland",
     "price": "$20.71",
@@ -1113,7 +1113,7 @@
   {
     "title": "Galatic Empire, Powerglove, Danimal Cannon",
     "date": "2024-10-03T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "metal",
     "time": "6:00pm",
     "location": "The Meadows",
     "price": "$30.90",
@@ -1124,7 +1124,7 @@
   {
     "title": "Pancakes and Booze",
     "date": "2024-10-03T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "pop",
     "time": "7:00pm",
     "location": "The Brooklyn Monarch",
     "price": "$13.91",
@@ -1135,7 +1135,7 @@
   {
     "title": "Nervosa: The Great American Jailbreak Tour 2024",
     "date": "2024-10-04T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "thrash",
     "time": "5:30pm",
     "location": "The Meadows",
     "price": "$25.24",
@@ -1146,7 +1146,7 @@
   {
     "title": "Cold Cave, Buzz Kull",
     "date": "2024-10-04T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "7:00pm",
     "location": "The Brooklyn Monarch",
     "price": "$42.23",
@@ -1157,7 +1157,7 @@
   {
     "title": "Another Demon w/ Skullovich, The Unknown + More!",
     "date": "2024-10-05T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "emo",
     "time": "7:00pm",
     "location": "The Kingsland",
     "price": "$19.57",
@@ -1168,7 +1168,7 @@
   {
     "title": "Sodom, Hirax, Whiplash, Stress Angel",
     "date": "2024-10-09T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "metal",
     "time": "6:00pm",
     "location": "The Brooklyn Monarch",
     "price": "$69.53",
@@ -1179,7 +1179,7 @@
   {
     "title": "NY Back From The Dead Fest",
     "date": "2024-10-12T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "12:30pm",
     "location": "The Meadows",
     "price": "$25.24",
@@ -1190,7 +1190,7 @@
   {
     "title": "Afrobeats to the World",
     "date": "2024-10-12T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "11:00pm",
     "location": "The Brooklyn Monarch",
     "price": "$13.91",
@@ -1201,7 +1201,7 @@
   {
     "title": "The Jins, Olive Vox",
     "date": "2024-10-15T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:30pm",
     "location": "The Kingsland",
     "price": "$22.97",
@@ -1212,7 +1212,7 @@
   {
     "title": "State Faults w/ Massa Nera",
     "date": "2024-10-18T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:30pm",
     "location": "The Kingsland",
     "price": "$19.57",
@@ -1223,7 +1223,7 @@
   {
     "title": "Coalesce, Cave In, Eye Flys",
     "date": "2024-10-18T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:30pm",
     "location": "The Meadows",
     "price": "$32.78",
@@ -1234,7 +1234,7 @@
   {
     "title": "AA Williams",
     "date": "2024-10-19T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:00pm",
     "location": "The Kingsland",
     "price": "$21.84",
@@ -1245,7 +1245,7 @@
   {
     "title": "Cave In, Coalesce, Nø Man",
     "date": "2024-10-19T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:30pm",
     "location": "The Meadows",
     "price": "$34.84",
@@ -1256,7 +1256,7 @@
   {
     "title": "Slift",
     "date": "2024-10-24T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "metal",
     "time": "7:00pm",
     "location": "The Meadows",
     "price": "$30.90",
@@ -1267,7 +1267,7 @@
   {
     "title": "Phantom Creep Festival",
     "date": "2024-10-26T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "8:00pm",
     "location": "The Kingsland",
     "price": "$25.24",
@@ -1278,7 +1278,7 @@
   {
     "title": "Miss May I: Apologies Tour",
     "date": "2024-10-29T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:00pm",
     "location": "The Brooklyn Monarch",
     "price": "$30.90",
@@ -1287,9 +1287,20 @@
     "excerpt": "<p>The Kingsland Presents</p><p>Miss May I: Apologies Tour</p><p>In Hearts Wake</p><p>Traitors</p><p>Bloom</p><br><br><ul><li><a href='https://link.dice.fm/w3cd2ab9c788?pid=679d6ca0'>BUY TICKETS</a></li></ul>"
   },
   {
+    "title": "MARAUDA: RETRIBUTION TOUR",
+    "date": "2024-10-31T00:00:00.000+00:00",
+    "genre": "other",
+    "time": "11:00pm",
+    "location": "The Brooklyn Monarch",
+    "price": "$30.29",
+    "image": "https://dice-media.imgix.net/attachments/2024-06-25/ca332204-7845-4b1b-a7b9-58bde88c4497.jpg?rect=0%2C0%2C1080%2C1080&w=500&h=500",
+    "buyNowLink": "https://link.dice.fm/Y865686678dd?pid=679d6ca0",
+    "excerpt": "<p>21+</p><p>This event takes place at The Brooklyn Monarch.</p><p>23 Meadow St, Brooklyn, NY 11206</p><br><br><ul><li><a href='https://link.dice.fm/Y865686678dd?pid=679d6ca0'>BUY TICKETS</a></li></ul>"
+  },
+  {
     "title": "Welcome To Tha Function: Fever 333",
     "date": "2024-11-08T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "rock",
     "time": "6:30pm",
     "location": "The Brooklyn Monarch",
     "price": "$32.78",
@@ -1300,7 +1311,7 @@
   {
     "title": "Synthicide: Traitrs, Tba",
     "date": "2024-11-08T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "synth",
     "time": "11:00pm",
     "location": "The Meadows",
     "price": "$19.57",
@@ -1311,7 +1322,7 @@
   {
     "title": "Makari, Origami Button, Scro",
     "date": "2024-11-12T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:00pm",
     "location": "The Meadows",
     "price": "$25.24",
@@ -1322,7 +1333,7 @@
   {
     "title": "She Past Away",
     "date": "2024-11-14T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "7:30pm",
     "location": "The Brooklyn Monarch",
     "price": "$38.94",
@@ -1333,7 +1344,7 @@
   {
     "title": "Devastation of the Nation Tour: Morbid Angel",
     "date": "2024-12-08T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "5:00pm",
     "location": "The Brooklyn Monarch",
     "price": "$45.88",
@@ -1344,7 +1355,7 @@
   {
     "title": "Mess, The Templars, No Time, Vaxine, 45 Adapters",
     "date": "2024-12-14T00:00:00.000+00:00",
-    "genre": "gig",
+    "genre": "other",
     "time": "6:00pm",
     "location": "The Brooklyn Monarch",
     "price": "$36.57",
